@@ -26,6 +26,16 @@
 #include "code/advanced_landing.dm"
 #include "code/chemistry.dm"
 #include "code/jobs.dm"
-
+#include "code/bottom.dm"
+#include "code/top.dm"
 
 #endif
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+// END_INCLUDE
