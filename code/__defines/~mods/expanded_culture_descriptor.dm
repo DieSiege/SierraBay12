@@ -24,6 +24,7 @@
 #define CULTURE_HUMAN_LORDLOW "Lordanian, Lower"
 #define CULTURE_HUMAN_MIRANIAN "Miranian"
 #define CULTURE_HUMAN_NYXIAN "Nyxian"
+#define CULTURE_HUMAN_CONFEDC "Confederate, Core Systems"
 
 #define HOME_SYSTEM_PLUTO                	"Pluto"
 #define HOME_SYSTEM_TERSTEN              	"Tersten"
@@ -39,6 +40,7 @@
 #define HOME_SYSTEM_YUKLID               	"Yuklid V"
 #define HOME_SYSTEM_LORDANIA             	"Lordania"
 #define HOME_SYSTEM_KINGSTON             	"Kingston"
+#define HOME_SYSTEM_QUIG           	      "Quig"
 
 #define FACTION_SKRELL_MED  "Gloa'Morr Corp."
 #define FACTION_SKRELL_AIR  "Krri'gli Corp."
