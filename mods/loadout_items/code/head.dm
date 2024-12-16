@@ -41,15 +41,15 @@
 // Human headgarments
 
 /obj/item/clothing/head/soft/colorable
-    name = "Soft cap"
-    desc = "A simple baseball soft cap without any special qualities"
-    icon = 'mods/loadout_items/icons/obj_head.dmi'
-    item_icons = list(
-        slot_head_str = 'mods/loadout_items/icons/onmob_head.dmi'
-    )
-    icon_state = "cprescap"
-    item_state = "cprescap"
+	name = "Soft cap"
+	desc = "A simple baseball soft cap without any special qualities"
+	icon = 'mods/loadout_items/icons/obj_head.dmi'
+	item_icons = list(
+		slot_head_str = 'mods/loadout_items/icons/onmob_head.dmi'
+	)
+	icon_state = "cprescap"
+	item_state = "cprescap"
 
 /obj/item/clothing/head/soft/on_update_icon()
-    . = ..()
-    item_state = initial(item_state) + (flipped ? "_flipped" : "")
+	. = ..()
+	item_state = initial(item_state) + (flipped ? "_flipped" : "")
